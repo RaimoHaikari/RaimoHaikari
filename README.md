@@ -15,7 +15,9 @@ Viime ajat olen viettänyt [kotisivujeni](http://www.tahtisadetta.fi/). parissa.
 
 En tiedä miten muiden laita on, mutta minulla tuppaa käymään niin, että kun vaivalla opettelen jotain, niin ihmeen nopeasti asiat unohtuvat. Ja sekös harmittaa. Tästä viisastuneena ajattelin vastedes tehdä muistiinpanoja ja laatia niistä oppaita siltä varalta, että joku toinenkin niistä saattaisi hyötyä.
 
-- [Webhotellin päivitys cPanelin ja Github actionsin avulla](https://raimohaikari.github.io/github-cpanel/)
+- [Laravel-projektin julkaisu ja ylläpito GitHub actionsin avulla](https://raimohaikari.github.io/laravel-github-cpanel/) [Lokakuu 2022]
+- [Webhotellin päivitys cPanelin ja Github actionsin avulla](https://raimohaikari.github.io/github-cpanel/) [Lokakuu 2022]
+
 
 ### Elokuvien ensi-ilta-arvosteluja
 
